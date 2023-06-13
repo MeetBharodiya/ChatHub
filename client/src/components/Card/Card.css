@@ -1,0 +1,10 @@
+.card-container {
+  position: relative;
+  top: 3px;
+  /* bottom: auto;
+  left: auto;
+  top: 0;
+  left: 0;
+  margin-top: 15px;
+  margin-left: 15px; */
+}
